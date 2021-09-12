@@ -1,5 +1,5 @@
 {
-  "name": "lzr-Cli",
+  "name": "lzrcli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["lzr","coke3000","vue","cli"],
+  "keywords": ["lzr","vue","cli"],
   "author": "lzr",
   "license": "MIT",
   "homepage":"https://github.com/Coke3000/myCli",

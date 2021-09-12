@@ -4,7 +4,7 @@ A CLI to help you quickly build vue projects（学习自 Coderwhy老师）
 如何安装？：
 
 ````
-npm install lzr -g
+npm install lzrcli -g
 ````
 
 ### 一、创建项目
