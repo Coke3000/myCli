@@ -9,9 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["lzr","coke3000","vue","cli"],
+  "author": "lzr",
+  "license": "MIT",
+  "homepage":"https://github.com/Coke3000/myCli",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/Coke3000/myCli"
+  },
   "dependencies": {
     "commander": "^8.2.0",
     "download-git-repo": "^3.0.2",
